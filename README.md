@@ -12,13 +12,13 @@ website is legitimate.
 - Image recognition for NSFW (Not Safe For Work) - alcohol, cannabis, gambling, nude, porn, tobacco_smoking, 'violence.
 
 Report(example):
-Followed report for: hbo
-Website category: Cellular
-Profanity check: 0 found
-SSL chcek: valid
-website review#1: 4.23
-website review#2: 1.9
-NSFW images: 41%
+- Followed report for: hbo
+- Website category: Cellular
+- Profanity check: 0 found
+- SSL chcek: valid
+- website review#1: 4.23
+- website review#2: 1.9
+- NSFW images: 41%
 
 
 As I said before, this repository is an example for proof of concept.
